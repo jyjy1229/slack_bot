@@ -36,4 +36,4 @@ def hello_there():
     return make_response("There are no slack request events", 404, {"X-Slack-No-Retry": 1})
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", debug=True, port=5002)
+    app.run(host="0.0.0.0", debug=True, port=5000)
