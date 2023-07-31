@@ -32,9 +32,9 @@ def getOutputText(inputText):
     elif inputText == "마케팅팀":
         return "팀장: 알리 팀원: 제이, 릴리"
     elif inputText == "개발팀":
-        return "팀장: 티모 팀원: 아이작, 라이카, 조던, 둘리, 아이번"
+        return "팀장: 티모 팀원: 아이작, 라이카, 조던, 둘리, 아이번, 포든"
     elif inputText == "기획팀":
-        return "팀장: 팩맨 팀원: 조이, 제리"
+        return "팀장: 공석 팀원: 조이, 제시, 제리"
     elif inputText == "영업팀":
         return "팀장: 아리아나 팀원: 이든, 레이, 카이"
     elif inputText == "경영팀":
