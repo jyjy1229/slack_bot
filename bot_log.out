@@ -5,5 +5,3 @@
  * Running on http://127.0.0.1:5000
  * Running on http://10.0.0.5:5000
 [33mPress CTRL+C to quit[0m
-44.199.232.90 - - [31/Jul/2023 00:38:51] "POST / HTTP/1.1" 200 -
-44.197.243.93 - - [31/Jul/2023 00:38:52] "POST / HTTP/1.1" 200 -
