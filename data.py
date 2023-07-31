@@ -1,4 +1,4 @@
-BotToken = "xoxb-634749716256-5522766081990-ChfjFKaZZ2GfcO3AaNTr5YOV"
+BotToken = "xoxb-634749716256-5522766081990-wmif37BpRewRz9xM2mZOwh1j"
 BotUserId = "U05FCNJ2DV4"
 AdminUserId = "U0316BLFVQD"
 missions = [
